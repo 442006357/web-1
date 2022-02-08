@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ar" >
+<head>
+    <meta charset="UTF-8">
+    <title>My first page</title>
+    <style>
+        body{
+            margin: 0 15% 0 15%;
+            background-color:Gray;
+            font-family:Tahoma;
+        }
+    </style>
+</head>
+<body>
+<article>
+    <p>This my daily news...</p>
+    <div class="Y66">  
+        <h3 style="color:red;">Y66</h3>
+        <p style="color:Blue;">content</p>
+    </div>
+    
+    <div class="Y77"> 
+     <h3style="color:yellow;"> Y77</h3>
+        <p style="color:beige;"     >content</p>
+    </div>
+    
+    <div class="Y88">
+         <h3 style="color:green;"> Y88</h3> 
+        <p  style="color:SlateBlue;">content</p>
+    </div>
+</article>
+</body>
+</html>
+
